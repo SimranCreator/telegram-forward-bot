@@ -5,10 +5,10 @@ from telegram.ext import Updater, MessageHandler, Filters, CommandHandler, Callb
 with open("config.json") as f:
     config = json.load(f)
 
-BOT_TOKEN = config["bot_token"]
-SOURCE_CHATS = config["sources"]
-TARGET_CHAT = config["target"]
-WATERMARK = config["watermark"]
+BOT_TOKEN = config["8878054728:AAHc8VcHuVmPCHE_mJxXWypDA5hRKaGhazwE"]
+SOURCE_CHATS = config["@DevelopmentNewsIndia"]
+TARGET_CHAT = config["@warupdatenow]
+WATERMARK = config["simrancreator"]
 
 mode = config["mode"]
 
