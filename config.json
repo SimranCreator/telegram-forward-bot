@@ -1,0 +1,10 @@
+{
+  "bot_token": "PUT_YOUR_TOKEN_HERE",
+  "sources": [
+    "@jestflix",
+    "PRIVATE_CHANNEL_ID_HERE"
+  ],
+  "target": "@warupdatenow",
+  "watermark": "Simran",
+  "mode": "all"
+}
