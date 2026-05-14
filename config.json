@@ -1,10 +1,10 @@
 {
-  "bot_token": "PUT_YOUR_TOKEN_HERE",
+  "bot_token": "8878054728:AAHc8VcHuVmPCHE_mJxXWypDA5hRKaGhazwE",
   "sources": [
-    "@jestflix",
-    "PRIVATE_CHANNEL_ID_HERE"
+    "@wfwitness",
+    "@DevelopmentNewsIndia"
   ],
   "target": "@warupdatenow",
   "watermark": "Simran",
   "mode": "all"
-}
+} 
